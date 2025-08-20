@@ -10,6 +10,11 @@ Here is uart test with Raspberry Pi 4B.
 
 ## 2. Enjoy your device
 
+
+<img width="855" height="558" alt="putty" src="https://github.com/user-attachments/assets/f34f12a9-8680-4368-a989-5b665de37dcf" />
+
+(Putty on windows)
+
 <img width="902" height="607" alt="demo" src="https://github.com/user-attachments/assets/0e355dcf-fcdf-4e9a-84d4-345b10ac2f02" />
 
 (Receive Message)
